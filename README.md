@@ -25,9 +25,9 @@ Here are some projects I have worked on:
 
 If you would like to get in touch or collaborate with me, please don't hesitate to reach out:
 
-- Email: [email@example.com](mailto:muzayyinarf@gmail.com)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/muzayyinarf)
-- GitHub: [GitHub Profile](https://github.com/muzayyinarf)
+- Email: [muzayyinarf@gmail.com](mailto:muzayyinarf@gmail.com)
+- LinkedIn: [Muzayyin Arifin](https://www.linkedin.com/in/muzayyinarf)
+- GitHub: [@muzayyinarf](https://github.com/muzayyinarf)
 
 Thank you for visiting my profile!
 
